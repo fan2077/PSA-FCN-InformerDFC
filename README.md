@@ -12,4 +12,5 @@ Gaining Attention Weight: predict.py
 
 detect model: detect.py
 
-dataset:
+dataset: 链接：https://pan.baidu.com/s/1_cPt_bwhKpiz6-hWyuUb-g?pwd=6o8d 
+提取码：6o8d
